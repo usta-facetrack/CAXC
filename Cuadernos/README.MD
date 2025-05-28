@@ -1,3 +1,5 @@
+## Cuadernos
+
 Esta carpeta contiene los cuadernos de Jupyter utilizados para la exploración de datos, análisis, visualización y desarrollo de modelos en este proyecto. Los cuadernos están organizados de la siguiente manera:
 
 - **Exploración de Datos**: Cuadernos que contienen análisis exploratorio de datos (EDA), visualizaciones iniciales y descubrimiento de patrones importantes en los datos.
